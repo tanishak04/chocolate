@@ -3,6 +3,7 @@ const messages = [
     "Sending you a virtual chocolate treat! 🍩",
     "Hope your day is filled with sweetness! 🍫",
     "Chocolate makes everything better! 🍪"
+    "love you forever."
 ];
 
 function changeMessage() {
